@@ -23,12 +23,12 @@ Estudando padrão de projeto Factory
 - Simples Factory
 
 <br>Diagrama de funcionamento
-![media\simples_factory.png](media\simples_factory.png)
+![media/simples_factory.png](media/simples_factory.png)
 
   - Permite que as interfaces criem objetos sem expor a lógica de sua criação
 - Factory Method
 <br>Diagrama de funcionamento
-![media\factory_method.png](media\factory_method.png)
+![media/factory_method.png](media/factory_method.png)
 
   - Permite que as interfaces criem objetos, mas adia a decisão para que as subclasses determinem a classe para a criação do objeto
 - Abstract Method
